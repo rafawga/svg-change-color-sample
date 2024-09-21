@@ -33,8 +33,8 @@ def change_green_to_color(svg_path, new_color, output_path):
     print(f"Modified SVG saved at: {output_path}")
 
 # Paths for the input and output SVG files
-svg_path = "C:/Users/rafaw/Downloads/Certificate.svg"  # Replace with the path to your input SVG
-output_path = "C:/Users/rafaw/Downloads/CertificateMOdifeed.svg"  # Replace with the path for the modified output SVG
+svg_path = ""  # Replace with the path to your input SVG
+output_path = ""  # Replace with the path for the modified output SVG
 
 # Variable to set the desired replacement color (e.g., blue)
 new_color = "#8a16b8"  # Change this to the color you want to use
